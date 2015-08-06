@@ -1,0 +1,1 @@
+# hadoop-accumulo-config
